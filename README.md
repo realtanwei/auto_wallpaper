@@ -1,9 +1,13 @@
-# auto_wallpaper
+## Summary
 
 * 获取https://cn.bing.com/首页背景
 * 下载图片
 * 设置背景
 
+## Install Dependencies
+
+* pip3 & python3 is required
+* pip3 install -r requirements.txt
 
 ## Ubuntu 定时任务:
 
